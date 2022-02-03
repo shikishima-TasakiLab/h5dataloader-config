@@ -18,16 +18,16 @@
 
 1. Run
 
-  - Docker
-    ```bash
-    cd h5dataloader-config
-    ./docker/run.sh
-    ```
+    - Docker
+      ```bash
+      cd h5dataloader-config
+      ./docker/run.sh
+      ```
 
-  - Local
-    ```bash
-    h5dataloader-config
-    ```
+    - Local
+      ```bash
+      h5dataloader-config
+      ```
 
 1. Open HDF5 or JSON.
 

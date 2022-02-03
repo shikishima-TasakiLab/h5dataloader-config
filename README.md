@@ -20,6 +20,7 @@
 
     - Docker
       ```bash
+      xhost local:
       cd h5dataloader-config
       ./docker/run.sh
       ```
